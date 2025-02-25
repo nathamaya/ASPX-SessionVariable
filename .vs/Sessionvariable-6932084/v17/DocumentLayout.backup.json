@@ -3,11 +3,19 @@
   "WorkspaceRootPath": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\sessionvariable-6932084\\sessionvariable-6932084\\productconfirmsessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|solutionrelative:sessionvariable-6932084\\productconfirmsessionvariables.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\sessionvariable-6932084\\sessionvariable-6932084\\productconfirmsessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|solutionrelative:sessionvariable-6932084\\productconfirmsessionvariables.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\sessionvariable-6932084\\sessionvariable-6932084\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|solutionrelative:sessionvariable-6932084\\sessionvariable.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|c:\\users\\amaya\\onedrive\\desktop\\practica 3\\sessionvariable-6932084\\sessionvariable-6932084\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\sessionvariable-6932084\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{EAABF772-45D5-4382-AFF7-1A5D4A1A3CD1}|Sessionvariable-6932084\\Sessionvariable-6932084.csproj|solutionrelative:sessionvariable-6932084\\sessionvariable.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     }
   ],
@@ -23,25 +31,51 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ProductConfirmSessionVariables.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx.cs",
+              "RelativeDocumentMoniker": "Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx.cs",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx.cs",
+              "RelativeToolTip": "Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-25T19:52:56.85Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductConfirmSessionVariables.aspx",
+              "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx",
+              "RelativeDocumentMoniker": "Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx",
+              "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx",
+              "RelativeToolTip": "Sessionvariable-6932084\\ProductConfirmSessionVariables.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2025-02-25T19:47:07.974Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Sessionvariable.aspx.cs",
               "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\Sessionvariable.aspx.cs",
               "RelativeDocumentMoniker": "Sessionvariable-6932084\\Sessionvariable.aspx.cs",
               "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\Sessionvariable.aspx.cs",
               "RelativeToolTip": "Sessionvariable-6932084\\Sessionvariable.aspx.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAAuwB0AAAA9AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-25T19:30:29.033Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "Sessionvariable.aspx",
               "DocumentMoniker": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\Sessionvariable.aspx",
               "RelativeDocumentMoniker": "Sessionvariable-6932084\\Sessionvariable.aspx",
               "ToolTip": "C:\\Users\\Amaya\\OneDrive\\Desktop\\Practica 3\\Sessionvariable-6932084\\Sessionvariable-6932084\\Sessionvariable.aspx",
               "RelativeToolTip": "Sessionvariable-6932084\\Sessionvariable.aspx",
-              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
               "WhenOpened": "2025-02-25T19:28:23.267Z",
               "EditorCaption": ""

@@ -17,7 +17,7 @@ namespace Sessionvariable_6932084
         protected void btnConfirm_Click(object sender, EventArgs e)
         {
             // Save the session variables.
-            Session["ddiCategory"] = ddlCategory.SelectedValue;
+            Session["ddlCategory"] = ddlCategory.SelectedValue;
             Session["ddlSupplier"] = ddlSupplier.SelectedValue;
             Session["strProduct"] = txtProduct.Text;
             Session["strDescription"] = txtDescription.Text;
@@ -28,6 +28,8 @@ namespace Sessionvariable_6932084
             Session["bytReorderLevel"] = txtReorderLevel.Text;
             // Go to the confirmation page.
             Response.Redirect("ProductConfirmSessionVariables.aspx");
+
+
         }
     }
 }
